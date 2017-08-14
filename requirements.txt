@@ -1,0 +1,6 @@
+You need:
+Ruby (I am using 2.0.0 it should work on other versions though.)
+Watir:
+$ brew install selenium-server-standalone
+Chromedriver:
+$ brew install chromedriver
